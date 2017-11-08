@@ -1,0 +1,25 @@
+body { 
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 100px;
+	margin-bottom: 180px;
+ }
+
+.top {
+	height: 100px
+	background-color: grey;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+.top h1 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	list-style-type: none;
+}
+
+.menu {
+	font-family: 'Open Sans', sans-serif;
+}
